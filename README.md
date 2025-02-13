@@ -64,7 +64,7 @@ npm install
 Start the development server:
 
 ```sh
-npm start
+npm run start
 ```
 
 Then scan the QR code with **Expo Go** on your mobile device.
